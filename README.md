@@ -79,6 +79,8 @@
 | [**2341720217_ML_2025**](https://github.com/NathanaelGracedo/2341720217_ML_2025) | Machine Learning practical work & projects | Python, Jupyter |
 | [**PROGRAMING_MOBILE_2025-2026**](https://github.com/NathanaelGracedo/PROGRAMING_MOBILE_2025-2026) | Mobile Programming coursework | Flutter, Dart |
 | [**PCVK_2025**](https://github.com/NathanaelGracedo/PCVK_2025) | Computer Vision & Image Processing projects | Python, Jupyter |
+| [**Pentagram**](https://github.com/Ruphasa/Four-Heavenly-Principle) | Integrated RW Management System mobile app with AI-Powered Fraud Detection | Flutter, Dart |
+| [**LaporSana**](https://github.com/AlexanderDev2004/LaporSana) | Campus facility issue reporting & management website with decision support system for repair recommendations | Laravel, PHP |
 | [**PWL_POS**](https://github.com/NathanaelGracedo/PWL_POS) | Point of Sales web application | Laravel, JavaScript |
 | [**MUSIKin**](https://github.com/NathanaelGracedo/MUSIKin) | Music website — UTS project | PHP, HTML, CSS |
 

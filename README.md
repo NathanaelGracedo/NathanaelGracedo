@@ -18,24 +18,13 @@
 <p align="center">
   <a href="#-about-me">About Me</a> •
   <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
-  <a href="#-github-stats">Stats</a> •
-  <a href="#-contribution-snake">Snake Game</a> •
-  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-streak">Streak</a> •
   <a href="#-connect-with-me">Connect</a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-
-```yaml
-Name: Nathanael Juan Gracedo
-Status: Undergraduate Student in Informatics Engineering
-Campus: Politeknik Negeri Malang
-Focus: Web & Mobile Application Development
-Interests: [Next.js, Flutter, Machine Learning, Computer Vision]
-Location: Malang, East Java, Indonesia 🇮🇩
-```
 
 - 🎓 **Undergraduate** student majoring in **Informatics Engineering** at **Politeknik Negeri Malang**
 - 💻 Passionate about building performant & aesthetic **Web & Mobile Applications**
@@ -68,51 +57,11 @@ Location: Malang, East Java, Indonesia 🇮🇩
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NathanaelGracedo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanaelGracedo&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanaelGracedo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NathanaelGracedo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NathanaelGracedo/NathanaelGracedo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NathanaelGracedo/NathanaelGracedo/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/NathanaelGracedo/NathanaelGracedo/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanaelGracedo&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [**pemrograman-berbasis-framework**](https://github.com/NathanaelGracedo/pemrograman-berbasis-framework) | Framework-based programming coursework | TypeScript, Next.js |
-| [**2341720217_ML_2025**](https://github.com/NathanaelGracedo/2341720217_ML_2025) | Machine Learning practical work & projects | Python, Jupyter |
-| [**PROGRAMING_MOBILE_2025-2026**](https://github.com/NathanaelGracedo/PROGRAMING_MOBILE_2025-2026) | Mobile Programming coursework | Flutter, Dart |
-| [**PCVK_2025**](https://github.com/NathanaelGracedo/PCVK_2025) | Computer Vision & Image Processing projects | Python, Jupyter |
-| [**Pentagram**](https://github.com/Ruphasa/Four-Heavenly-Principle) | Integrated RW Management System mobile app with AI-Powered Fraud Detection | Flutter, Dart |
-| [**LaporSana**](https://github.com/AlexanderDev2004/LaporSana) | Campus facility issue reporting & management website with decision support system for repair recommendations | Laravel, PHP |
-| [**PWL_POS**](https://github.com/NathanaelGracedo/PWL_POS) | Point of Sales web application | Laravel, JavaScript |
-| [**MUSIKin**](https://github.com/NathanaelGracedo/MUSIKin) | Music website — UTS project | PHP, HTML, CSS |
 
 ---
 
